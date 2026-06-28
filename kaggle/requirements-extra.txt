@@ -1,0 +1,4 @@
+kaggle>=1.6
+matplotlib>=3.8
+seaborn>=0.13
+jupyter>=1.0
